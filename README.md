@@ -1,0 +1,1 @@
+This project is a simple and responsive User Registration Form created using HTML, CSS,javascript. The form allows users to enter their basic details such as full name, email ID, phone number, password, and confirm password. It is designed with a clean layout and modern UI to enhance the user experience.
